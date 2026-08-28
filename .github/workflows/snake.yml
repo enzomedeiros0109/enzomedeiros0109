@@ -21,6 +21,7 @@ jobs:
           github_user_name: enzomedeiros0109
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: push snake.svg to snake-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
