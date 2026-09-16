@@ -32,6 +32,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/enzomedeiros0109/enzomedeiros0109/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/enzomedeiros0109/enzomedeiros0109/snake-output/snake-dark.svg" alt="Snake animation" />
 
 ###
